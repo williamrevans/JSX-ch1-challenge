@@ -8,11 +8,11 @@ import ReactDOM from "react-dom";
 
 ReactDOM.render(
   <div>
-    <h1>JSX Challenge</h1>
+    <h1>Tonights Dinner</h1>
     <ul>
-      <li>Challenge 1</li>
-      <li>Challenge 2</li>
-      <li>Challenge 3</li>
+      <li>BLTs</li>
+      <li>Pasta with Pesto</li>
+      <li>Roasted Broccolli</li>
     </ul>
   </div>,
   document.getElementById("root")
